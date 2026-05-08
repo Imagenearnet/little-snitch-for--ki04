@@ -1,4 +1,4 @@
-
+Enhance Little Snitch for macOS with professional Little Snitch for macOS Helper | VPN-integration + secure-browsing, the #1 helper. Includes VPN-integration and secure-browsing
 
 
 
